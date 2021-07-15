@@ -1,4 +1,4 @@
-# Web-page
+# Solar system web page
 Laboratory work for Web design
 
 The goal was to make a web page with 3 tabs. The first one was a table with information about all the planets in our solar sistem and a link to NASA's chart with the same 
